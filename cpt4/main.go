@@ -42,4 +42,12 @@ func main() {
 	res7 := solution.RevRemaster(array4)
 	fmt.Print("4.7 Revert Result", res7, "\n")
 
+	// 4.8
+	fmt.Println("-------- Input 4.8 --------")
+	solution.Charcount()
+
+	// 4.9
+	fmt.Println("-------- Input 4.9 --------")
+	solution.Wordfreq()
+
 }
