@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c92c40fa-2153-4680-a6e7-e9d7f73d3e0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cpt4/solution/mapUseage.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpt4/solution/structUsage.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpt2/popcount/popcount.go" beforeDir="false" afterPath="$PROJECT_DIR$/cpt2/popcount/popcount.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cpt4/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/cpt4/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
@@ -52,7 +49,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -78,13 +75,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="VgoProject">
-    <proxy>direct</proxy>
+    <integration-enabled>true</integration-enabled>
+    <proxy>http://goproxy.bilibili.co</proxy>
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="192" key="#GOROOT" timestamp="1579773159332">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="440" y="192" key="#GOROOT/0.0.1680.1050@0.0.1680.1050" timestamp="1579773159332" />
+    <state x="440" y="192" key="#Go_Linter" timestamp="1588003482168">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="192" key="#Go_Linter/0.0.1680.1050@0.0.1680.1050" timestamp="1588003482168" />
     <state x="440" y="192" key="#Go_Modules_(vgo)" timestamp="1579943134922">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -92,21 +94,15 @@
     <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579836428772">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="-82" y="-887" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-429.-1080.1920.1080@-429.-1080.1920.1080" timestamp="1579015071644" />
-    <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050/-429.-1440.2560.1440@0.0.1680.1050" timestamp="1578496151739" />
     <state x="304" y="188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1579836428772" />
-    <state x="586" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578818043148">
+    <state x="349" y="164" key="SettingsEditor" timestamp="1583055828179">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="586" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1578818043148" />
-    <state x="349" y="164" key="SettingsEditor" timestamp="1580472854529">
+    <state x="349" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583055828179" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1581265897031">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="349" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1580472854529" />
-    <state x="602" y="140" key="refactoring.ChangeSignatureDialog" timestamp="1578819226586">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="602" y="140" key="refactoring.ChangeSignatureDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1578819226586" />
+    <state width="500" height="445" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1581265897031" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1580538482514">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
